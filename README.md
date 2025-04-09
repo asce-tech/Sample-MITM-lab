@@ -1,4 +1,4 @@
-# Sample-MITM-lab
+# MITM-lab
 Man-in-the-Middle (MITM) attack using ARP poisoning
 
 🔧 Objective
